@@ -1,4 +1,4 @@
-#**SilencePy**
+## **SilencePy**
 ## *A Python script that generates "Silence" crab memes*
 
 ## Requirements
