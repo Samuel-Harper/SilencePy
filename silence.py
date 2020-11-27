@@ -1,3 +1,4 @@
+!/usr/bin/python
 '''
 sys is needed for argv
 
@@ -17,7 +18,6 @@ draws text
 
 save method saves image
 '''
-!/usr/bin/python
 
 import sys 
 
