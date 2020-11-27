@@ -1,5 +1,5 @@
-# SilencePy
-## *A poorly made python script that generates "Silence" crab memes*
+## **SilencePy**
+## *A python script that generates "Silence" crab memes via the Python Imagine Library*
 
 ## Requirements
 This script requires [pillow](https://python-pillow.org/)
