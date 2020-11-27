@@ -1,6 +1,4 @@
 '''
-!/usr/bin/python
-
 sys is needed for argv
 
 pilsuc = False for importing pil
@@ -19,6 +17,7 @@ draws text
 
 save method saves image
 '''
+!/usr/bin/python
 
 import sys 
 
